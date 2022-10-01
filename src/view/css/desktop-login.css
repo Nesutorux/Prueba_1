@@ -1,0 +1,153 @@
+.pantalla-a {
+  display: contents;
+}
+.contenedor-centro-horizontal {
+  display: flex;
+  text-decoration: none;
+  flex-direction: row;
+  justify-content: center;
+  pointer-events: none;
+  width: 100%;
+}
+.contenedor-centro-horizontal > * {
+  flex-shrink: 0;
+  pointer-events: auto;
+}
+.escritorio-1gin {
+  align-items: flex - start;
+  background-color: white;
+  border: 1px none;
+  display: flex;
+  height: 1024px;
+  padding: 54px 35px;
+  width: 1440px;
+}
+.flexible-columna {
+  align-items: flex - start;
+  display: flex;
+  flex-direction: column;
+  margin-left: 141px;
+  margin-top: 104px;
+  min-height: 707px;
+  position: relative;
+  width: 497px;
+}
+.cuadro-24685 {
+  background-size: 100% 100%;
+  border: 1px none;
+  height: 200px;
+  margin-left: 44px;
+  width: 200px;
+}
+.flexible-fila {
+  align-items: flex - start;
+  display: flex;
+  margin-top: 15px;
+  min-width: 497px;
+}
+.selector {
+  align-items: flex - start;
+  border: 1px none;
+  display: flex;
+  min-width: 143px;
+}
+.ellipse-full {
+  align-items: center;
+  background-color: mariner - 2;
+  border-radius: 12px;
+  display: flex;
+  height: 24px;
+  min-width: 24px;
+  padding: 0 6px;
+}
+.ellipse {
+  background-color: var white;
+  border: 1.4px none;
+  border-radius: 6px;
+  height: 12px;
+  width: 12px;
+}
+.radio-boton {
+  letter-spacing: 0;
+  line-height: 24px;
+  margin-left: 16px;
+  margin-top: -1px;
+  min-height: 24px;
+  white-space: nowrap;
+}
+.lorem-ipsum-dolor-si {
+  letter-spacing: -0.13px;
+  line-height: 16px;
+  margin-left: 26px;
+  margin-top: 1px;
+  min-height: 16px;
+  white-space: nowrap;
+}
+.boton {
+  align-items: flex - start;
+  background-color: milano red;
+  border: 1px none;
+  border-radius: 16px;
+  display: flex;
+  height: 56px;
+  margin-left: 3px;
+  margin-top: 43px;
+  min-width: 110px;
+  padding: 15px 28px;
+}
+.grande {
+  letter-spacing: 0;
+  line-height: 24px;
+  min-height: 24px;
+  white-space: nowrap;
+}
+.imagen-1 {
+  height: 915px;
+  object-fit: cover;
+  width: 732px;
+}
+.grupo-25413 {
+  align-items: flex - start;
+  border-radius: 16px;
+  display: flex;
+  flex-direction: column;
+  margin-top: 80px;
+  min-height: 123px;
+  width: 345px;
+}
+.titulo {
+  letter-spacing: 0;
+  line-height: 56px;
+  margin-left: 3px;
+  margin-top: -1px;
+  min-height: 56px;
+  white-space: nowrap;
+}
+.suspencio-grupo {
+  height: 46px;
+  margin-top: 22px;
+  position: relative;
+  width: 341px;
+}
+.rectangulo-3 {
+  background-color: gray nurse;
+  border: 1px none;
+  border-radius: 16px;
+  height: 46px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 338px;
+}
+.lorem-ipsum-dolor-si-1 {
+  left: 13px;
+  letter-spacing: -0.13px;
+  line-height: 16px;
+  position: absolute;
+  top: 14px;
+  white-space: nowrap;
+  width: 328px;
+}
+.grupo-25413.group-25414 {
+  margin-top: 43px;
+}

@@ -1,0 +1,106 @@
+.pantalla-a {
+  display: contents;
+}
+.contenedor-centro-horizontal {
+  display: flex;
+  text-decoration: none;
+  flex-direction: row;
+  justify-content: center;
+  pointer-events: none;
+  width: 100%;
+}
+.contenedor-centro-horizontal > * {
+  flex-shrink: 0;
+  pointer-events: auto;
+}
+.escritorio-recuperar-usuario-1 {
+  align-items: flex - start;
+  background-color: white;
+  border: 1px none;
+  display: flex;
+  height: 1024px;
+  padding: 156px 118px;
+  width: 1440px;
+}
+.imagen-1 {
+  height: 711px;
+  object-fit: cover;
+  width: 682px;
+}
+.flexible-columna {
+  align-items: flex - start;
+  display: flex;
+  flex-direction: column;
+  margin-left: 107px;
+  margin-top: 171px;
+  min-height: 368px;
+  position: relative;
+  width: 345px;
+}
+.titulo {
+  letter-spacing: 0;
+  line-height: 80px;
+  margin-left: 3px;
+  min-height: 80px;
+  white-space: nowrap;
+}
+.boton {
+  align-items: flex - start;
+  background-color: milano red;
+  border: 1px none;
+  border-radius: 16px;
+  display: flex;
+  height: 56px;
+  margin-left: 3px;
+  margin-top: 32px;
+  min-width: 110px;
+  padding: 15px 28px;
+}
+.grande {
+  letter-spacing: 0;
+  line-height: 24px;
+  min-height: 24px;
+  white-space: nowrap;
+}
+.grupo-25413 {
+  align-items: flex - start;
+  border-radius: 16px;
+  display: flex;
+  flex-direction: column;
+  margin-top: 77px;
+  min-height: 123px;
+  width: 345px;
+}
+.boveda-3 {
+  letter-spacing: 0;
+  line-height: 56px;
+  margin-left: 3px;
+  margin-top: -1px;
+  min-height: 56px;
+  white-space: nowrap;
+}
+.suspencion-grupo {
+  height: 46px;
+  margin-top: 22px;
+  position: relative;
+  width: 341px;
+}
+.rectangulo-3 {
+  background-color: gray nurse;
+  border: 1px none;
+  border-radius: 16px;
+  height: 46px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 338px;
+}
+.lorem-ipsum-dolor-si {
+  left: 13px;
+  letter-spacing: -0.13px;
+  line-height: 16px;
+  position: absolute;
+  top: 14px;
+  white-space: nowrap;
+  width: 328px;
+}
